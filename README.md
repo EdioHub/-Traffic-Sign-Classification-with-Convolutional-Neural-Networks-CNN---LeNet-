@@ -1,6 +1,10 @@
 # -Traffic-Sign-Classification-with-Convolutional-Neural-Networks-CNN---LeNet-
 Sistema para detecçaõ de placas de transito, usando uma Rede Neural Convolucionalcom uma arquitetura LeNet
 
+o data set pode se acessado pelo link
+
+https://drive.google.com/drive/folders/1LRUoDlnni78-BasYApu44b-5xcl04vKs?usp=sharing
+
 Objetivo:
 
 Desenvolvido um sistema de detecção de placas de trânsito utilizando a biblioteca LeNet. Nosso objetivo é aprimorar a segurança viária por meio da identificação eficiente e precisa de placas de trânsito em imagens.
